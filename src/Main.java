@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        int maxWords = 4;
+        int maxWords = 3;
         List<Person> list = new ArrayList<>();
         list.add(new Person("Robert", "won Robertson", 47));
         list.add(new Person("William", "won bon Wlliamson", 56));
